@@ -1,0 +1,353 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.infinity-logo {
+    width: 110px;
+    height: 90px;
+}
+
+.bg-white {
+    background-image: linear-gradient(to right, white, white, purple, pink);
+}
+
+.navbar {
+    border-radius: 20px;
+}
+
+.banner-btm-image {
+    border-style: solid;
+    height: 350px;
+    width: 450px;
+    border-width: 10px;
+    border-color: white;
+}
+
+.modal-content {
+    color: white;
+    background-image: Radial-gradient(white, #9a2391, pink);
+}
+
+.header {
+    background: white;
+}
+
+#navItem1 {
+    font-weight: 600;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    font-weight: 600;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    font-weight: 600;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    font-weight: 600;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("https://res.cloudinary.com/dtakuvyoh/image/upload/v1717741602/Design_a_lan_87a63cc5-4446-4ad7-9565-72cafe2db6cb_b66umz.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom-button {
+    color: white;
+    background-color: #9a2391;
+    width: 130px;
+    font-weight: 600;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    color: white;
+    background-color: transparent;
+    width: 130px;
+    font-weight: 600;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #9a2391;
+    border-radius: 8px;
+}
+
+.content-top-foods {
+    margin: 20px;
+    width: 1300;
+    padding: 20px;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+}
+
+.wcu-section {
+    background-color: #9a2391;
+}
+
+.wcu-section-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.wcu-section-description {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+
+}
+
+.wcu-card-3 {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+    height: 285px;
+}
+
+.wcu-card-image {
+    width: 87px;
+    height: 90px;
+}
+
+.wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.explore-menu-section {
+    background-image: linear-gradient(to right, pink, white, white, purple, pink);
+}
+
+.menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-card-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+    background-color: #9a2391;
+}
+
+.healthy-food-section {
+    background-color: #9a2391;
+}
+
+.healthy-food-section-img {
+    width: 200px;
+}
+
+.healthy-food-section-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.healthy-food-section-description {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.custom-button {
+    color: #9a2391;
+    background-color: white;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.delivery-and-payment-section {
+    background-color: white;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.custom-button {
+    color: white;
+    background-color: #9a2391;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.thanking-customers-section {
+    background-image: Radial-gradient(#fff8db, #9a2391);
+}
+
+.thanking-customers-section-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.thanking-customers-section-description {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+
+}
+
+.custom-button {
+    color: black;
+    background-color: white;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: black;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #9a2391;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+}
+
+.icon {
+    color: white;
+    font-size: 35px;
+}
+
+.w-100 {
+    border-radius: 14px;
+}
+
+.footer-section {
+    background-image: linear-gradient(pink, pink, purple, white);
+}
+
+.footer-section-mail-id {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.footer-section-address {
+    color: white;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+.adjust{
+    
+    color:white;
+    
+    
+}
