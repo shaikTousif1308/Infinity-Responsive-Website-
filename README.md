@@ -32,4 +32,4 @@ Check out the live website: [responsive258.ccbp.tech](https://responsive258.ccbp
 
 ## 📧 Contact  
 For any inquiries, feel free to reach out:  
-- Email: yourname@example.com  
+- Email: tousifrehaman2002@gmail.com
