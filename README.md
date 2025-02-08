@@ -3,7 +3,7 @@
 Infinity Foods is a fully responsive website built using HTML, CSS, and Bootstrap to ensure a seamless user experience across different devices. This project focuses on modern UI design, responsiveness, and clean layout implementation.
 
 🚀 Live Demo
-🔗 View the Website
+🔗 responsive258.ccbp.tech
 
 🛠️ Technologies Used
 HTML5 - Structuring the content
